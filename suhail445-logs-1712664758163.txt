@@ -1,0 +1,10 @@
+2024-04-09T12:11:42.101406+00:00 app[web.1]: 0|Suhail  | ℹ️ Connecting to WhatsApp!
+2024-04-09T12:11:42.139113+00:00 heroku[web.1]: State changed from starting to up
+2024-04-09T12:11:42.584766+00:00 app[web.1]: 0|Suhail  | ✅ Whatsapp Login Successful!
+2024-04-09T12:11:42.660570+00:00 app[web.1]: 0|Suhail  | ⏳ Checking External Plugins.!!
+2024-04-09T12:11:42.903499+00:00 app[web.1]: 0|Suhail  | ✅ External Plugins Installed!
+2024-04-09T12:11:43.816576+00:00 app[web.1]: 0|Suhail  | SUHAIL-MD Connected
+2024-04-09T12:11:43.816650+00:00 app[web.1]: 0|Suhail  |   Prefix  : [ ' ]
+2024-04-09T12:11:43.816650+00:00 app[web.1]: 0|Suhail  |   Plugins : 393
+2024-04-09T12:11:43.816650+00:00 app[web.1]: 0|Suhail  |   Mode    : public
+2024-04-09T12:11:43.816666+00:00 app[web.1]: 0|Suhail  |   Database: PostegreSql
