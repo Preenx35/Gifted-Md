@@ -25,8 +25,8 @@
   
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/Giftedmaurice/gifted-mdV2
-      cd gifted-mdV2
+      git clone https://github.com/giftedtechnexus/Gifted-Md
+      cd Gifted-Md
       yarn install --network-concurrency 1
       ```
 
@@ -45,7 +45,7 @@
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "GIFTED"
+      THEME= "Gifted"
       MODE = "private"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
@@ -64,3 +64,5 @@
 - In that case, I'm not responsible for banning your account.
 - Use Gifted-Md at your own risk by keeping this warning in mind.
  
+
+
